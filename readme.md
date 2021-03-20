@@ -1,4 +1,9 @@
-# 运算符比较库
+# 安装
+```
+go get github.com/kangkang66/xcompare 
+```
+
+# 支持的方法
 
 ## 包含 （in）
 ### 支持的类型
